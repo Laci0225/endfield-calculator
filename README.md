@@ -19,18 +19,19 @@ Interactive Interface – Easily navigate and configure your calculations.
 
 The project is organized into the following files and folders:
 
-text
+<pre>
 Endfield Calculator/
 │
-├── index.html
-├── app.js
-├── calc.js
-├── styles.css
-├── README.md
+├── 📄 index.html
+├── 📄 app.js
+├── 📄 calc.js
+├── 🎨 styles.css
+├── 📄 README.md
 │
-├── assets/
-├── data/
-└── tools/
+├── 📁 assets/
+├── 📁 data/
+└── 📁 tools/
+</pre>
 
 🚀 How to Use
 Open the website in your browser.
