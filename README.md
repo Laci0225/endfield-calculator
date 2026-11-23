@@ -4,16 +4,19 @@
 Endfield Calculator is a browser-based tool designed to help players explore and calculate character damage based on operators, weapons, gear, teams, enemies, and battle conditions.
 
 ✨ Features
-Operator Selection – Select and filter operators.
-Weapon Selection – Choose different weapons.
-Gear Selection – Configure equipment and gear.
-Team Configuration – Build your team and customize its setup.
-Enemy Configuration – Adjust enemy settings for damage calculations.
-Damage Calculations – Calculate damage for individual abilities.
-Critical Hit Calculations – Explore critical damage values.
-Level Adjustments – Customize character and skill levels.
-Damage Breakdown – Examine damage values and comparisons.
-Interactive Interface – Easily navigate and configure your calculations.
+
+<ul>
+<li><strong>Operator Selection</strong> – Select and filter operators.</li>
+<li><strong>Weapon Selection</strong> – Choose different weapons.</li>
+<li><strong>Gear Selection</strong> – Configure equipment and gear.</li>
+<li><strong>Team Configuration</strong> – Build your team and customize its setup.</li>
+<li><strong>Enemy Configuration</strong> – Adjust enemy settings for damage calculations.</li>
+<li><strong>Damage Calculations</strong> – Calculate damage for individual abilities.</li>
+<li><strong>Critical Hit Calculations</strong> – Explore critical damage values.</li>
+<li><strong>Level Adjustments</strong> – Customize character and skill levels.</li>
+<li><strong>Damage Breakdown</strong> – Examine damage values and comparisons.</li>
+<li><strong>Interactive Interface</strong> – Easily navigate and configure your calculations.</li>
+</ul>
 
 📁 Project Structure
 
@@ -34,12 +37,15 @@ Endfield Calculator/
 </pre>
 
 🚀 How to Use
-Open the website in your browser.
-Select an operator.
-Choose your weapon and gear.
-Configure your team and enemy settings.
-Adjust character and skill levels.
-Explore the calculated damage values and ability breakdowns.
+
+<ol>
+<li>Open the website in your browser.</li>
+<li>Select an operator.</li>
+<li>Choose your weapon and gear.</li>
+<li>Configure your team and enemy settings.</li>
+<li>Adjust character and skill levels.</li>
+<li>Explore the calculated damage values and ability breakdowns.</li>
+</ol>
 🌐 Hosting
 
 This project can be hosted for free using GitHub Pages.
