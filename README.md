@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Endfield Calculator</h1>
+<h1 align="center"> Endfield Calculator</h1>
 <p align="center"><strong>A fan-made damage calculator for Arknights: Endfield.</strong></p>
 
 Endfield Calculator is a browser-based tool designed to help players explore and calculate character damage based on operators, weapons, gear, teams, enemies, and battle conditions.
