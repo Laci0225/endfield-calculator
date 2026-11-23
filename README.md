@@ -5,33 +5,36 @@ A fan-made damage calculator for Arknights: Endfield.
 Endfield Calculator is a browser-based tool designed to help players explore and calculate character damage based on operators, weapons, gear, teams, enemies, and battle conditions.
 
 ✨ Features
-Operator selection and filtering
-Weapon and gear selection
-Team and enemy configuration
-Damage calculations for individual abilities
-Critical hit calculations
-Adjustable character and skill levels
-Damage breakdowns and comparisons
-Interactive interface
+Operator Selection – Select and filter operators.
+Weapon Selection – Choose different weapons.
+Gear Selection – Configure equipment and gear.
+Team Configuration – Build your team and customize its setup.
+Enemy Configuration – Adjust enemy settings for damage calculations.
+Damage Calculations – Calculate damage for individual abilities.
+Critical Hit Calculations – Explore critical damage values.
+Level Adjustments – Customize character and skill levels.
+Damage Breakdown – Examine damage values and comparisons.
+Interactive Interface – Easily navigate and configure your calculations.
 📁 Project Structure
 text
 Endfield Calculator/
 │
-├── index.html
-├── app.js
-├── calc.js
-├── styles.css
-├── README.md
+├── index.html       # Main website page
+├── app.js           # Application functionality
+├── calc.js          # Damage calculation logic
+├── styles.css       # Website styling
+├── README.md        # Project documentation
 │
-├── assets/
-├── data/
-└── tools/
+├── assets/          # Images and visual resources
+├── data/            # Game and calculator data
+└── tools/           # Additional project utilities
 
 🚀 How to Use
 Open the website in your browser.
 Select an operator.
-Choose the weapon, gear, team, and enemy settings.
-Adjust character levels and skill levels.
+Choose your weapon and gear.
+Configure your team and enemy settings.
+Adjust character and skill levels.
 Explore the calculated damage values and ability breakdowns.
 🌐 Hosting
 
@@ -45,4 +48,6 @@ This is an unofficial fan-made project and is not affiliated with, endorsed by, 
 
 All game-related names and intellectual property belong to their respective owners.
 
-Made by a fan, for the Endfield community.
+<p align="center">
+<strong>Made by a fan, for the Endfield community. ❤️</strong>
+</p>
