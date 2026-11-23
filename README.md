@@ -1,6 +1,5 @@
-Endfield Calculator
-
-A fan-made damage calculator for Arknights: Endfield.
+<h1 align="center">⚔️ Endfield Calculator</h1>
+<p align="center"><strong>A fan-made damage calculator for Arknights: Endfield.</strong></p>
 
 Endfield Calculator is a browser-based tool designed to help players explore and calculate character damage based on operators, weapons, gear, teams, enemies, and battle conditions.
 
@@ -15,19 +14,23 @@ Critical Hit Calculations – Explore critical damage values.
 Level Adjustments – Customize character and skill levels.
 Damage Breakdown – Examine damage values and comparisons.
 Interactive Interface – Easily navigate and configure your calculations.
+
 📁 Project Structure
+
+The project is organized into the following files and folders:
+
 text
 Endfield Calculator/
 │
-├── index.html       # Main website page
-├── app.js           # Application functionality
-├── calc.js          # Damage calculation logic
-├── styles.css       # Website styling
-├── README.md        # Project documentation
+├── index.html
+├── app.js
+├── calc.js
+├── styles.css
+├── README.md
 │
-├── assets/          # Images and visual resources
-├── data/            # Game and calculator data
-└── tools/           # Additional project utilities
+├── assets/
+├── data/
+└── tools/
 
 🚀 How to Use
 Open the website in your browser.
